@@ -1,0 +1,1 @@
+vless://fb47f79f-ea8d-4ed9-840b-62751b0e4360@185.146.173.58:2052?encryption=none&security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048#VLESS_SPEED1
