@@ -1,1 +1,2 @@
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@www.speedtest.net:443?encryption=none&security=tls&sni=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048#VLESS_1
+vless://e6aedcd2-24ad-4bdd-82c5-006d84179197@www.speedtest.net:443?encryption=none&security=tls&sni=4d3d6f00.garywelch.pages.dev&alpn=h3&fp=randomized&type=ws&host=4d3d6f00.garywelch.pages.dev&path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2560#VLESS_2
