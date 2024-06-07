@@ -8,3 +8,5 @@ vless://67094874-89c5-4d30-8e98-a94aed8c9bc1@104.25.75.91:2096?encryption=none&s
 vless://f6c960f3-dc81-45ca-9891-4138f78d9125@boringdigital.nl:443?encryption=none&security=tls&sni=FalcuNaRgO.e9744be7d6.woRKeRs.DEv&type=ws&host=FalCUnaRGO.E9744be7D6.woRKERs.Dev&path=%2Fvn1-fm3_Ez8K-mTw%3Fed%3D2048#VIP_SPEED_8
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.163.59:443?encryption=none&security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#VIP_SPEED_9
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.230.219:443?encryption=none&security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#VIP_SPEED10
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.16.190.131:443?encryption=none&security=tls&sni=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=%2F%3Fed%3D2560#VIP_SPEED_11
+vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?encryption=none&security=tls&sni=VFIvE-teLeGram.PAGEs.Dev&type=ws&host=VFIvE-teLeGram.PAGEs.Dev&path=%2F#VIP_SPEED_12
